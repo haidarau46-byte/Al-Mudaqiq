@@ -4,9 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>المُدقِّق — تدقيق النصوص العربية</title>
-<meta name="theme-color" content="#F0E7D8" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#221A16" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" id="metaTheme" content="#F0E7D8">
 <meta name="description" content="المُدقِّق — تدقيق إملائي ونحوي وتشكيل وإعادة صياغة وتحويل للهجات للنصوص العربية.">
+<script>/* يضبط المظهر قبل أول رسم منعاً لوميض المظهر الخاطئ */
+(function(){try{var p=localStorage.getItem("mudaqqiq_theme");
+var t=(p==="dark"||p==="light")?p:((window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches)?"dark":"light");
+document.documentElement.setAttribute("data-theme",t);}
+catch(e){document.documentElement.setAttribute("data-theme","light");}})();</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700&family=Cairo:wght@500;600;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;600&display=swap" rel="stylesheet">
@@ -24,7 +28,7 @@
   --line:#E7D8C0; --line-2:#DBC6A6; --line-3:#EFE5D3;
 
   /* ــ الحبر ــ */
-  --ink:#3A2A23; --ink-2:#5E4638; --ink-soft:#7A6558; --ink-faint:#867163;
+  --ink:#3A2A23; --ink-2:#5E4638; --ink-soft:#6F5B4B; --ink-faint:#7E6A5C;
 
   /* ــ الوردي الباهت (شارات وألواح) ــ */
   --rose:#C98A94; --rose-2:#BE7783; --rose-deep:#8E4F5B;
@@ -32,7 +36,7 @@
   --rose-ink:#8E4F5B; --rose-soft:#F3DEE0; --rose-line:#E6C6CA;
 
   /* ــ الذهب (الفوانيس والحلي) ــ */
-  --gold:#C9A24B; --gold-2:#B98F3C; --gold-deep:#8A6626;
+  --gold:#C9A24B; --gold-2:#B98F3C; --gold-deep:#7D5C20;
   --gold-soft:#F5E7C4; --gold-line:#E3CE9C;
 
   /* ــ الأخضر (النخيل والإجازة) ــ */
@@ -106,7 +110,7 @@ main{max-width:840px;margin:0 auto;position:relative;z-index:1}
 }
 .tb-title{text-align:center;min-width:0;flex:1}
 .tb-name{display:block;font-family:var(--display);font-weight:700;font-size:21px;letter-spacing:-.2px;color:var(--ink)}
-.tb-sub{display:block;font-size:11.5px;color:var(--ink-soft);margin-top:1px}
+.tb-sub{display:block;font-size:11.5px;color:var(--ink-2);margin-top:1px}
 .icon-btn{
   position:relative;width:44px;height:44px;border-radius:16px;
   border:1px solid var(--line);background:var(--card);cursor:pointer;
@@ -170,7 +174,7 @@ main{max-width:840px;margin:0 auto;position:relative;z-index:1}
   margin:12px 0 0;font-family:var(--text);font-size:clamp(15px,3.9vw,18px);
   line-height:1.85;color:var(--ink-2);max-width:34ch;
 }
-.hl-orn{color:var(--gold-2);letter-spacing:2px;opacity:.85}
+.hl-orn{color:var(--gold-deep);letter-spacing:2px}
 .hero-badge{
   display:inline-block;margin-top:16px;padding:7px 18px;
   font-size:12px;font-weight:600;letter-spacing:.3px;
@@ -336,6 +340,21 @@ main{max-width:840px;margin:0 auto;position:relative;z-index:1}
 .card-top .lbl::before{
   content:"";width:6px;height:6px;border-radius:50%;
   background:var(--rose);box-shadow:0 0 0 3px var(--rose-soft);
+}
+.card-top-actions{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+/* زرّ المسح بتأكيدٍ خفيف */
+.clear-btn{
+  padding:11px 16px;min-height:44px;font-size:12.5px;font-weight:500;cursor:pointer;
+  color:var(--ink-soft);background:var(--card);
+  border:1px solid var(--line);border-radius:999px;
+  transition:all var(--dur) var(--ease);
+}
+.clear-btn:hover{border-color:var(--rose-line);color:var(--rose-ink)}
+.clear-btn:active{transform:scale(.96)}
+.clear-btn.arm{
+  color:#fff;font-weight:700;border-color:var(--rose-deep);
+  background:linear-gradient(180deg,var(--rose-fill-1),var(--rose-fill-2));
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.35),var(--sh-rose);
 }
 .sample,.gear{
   padding:11px 16px;min-height:44px;font-size:12.5px;font-weight:500;cursor:pointer;
@@ -518,6 +537,7 @@ button:focus-visible{box-shadow:0 0 0 3px var(--rose-soft)}
   width:46px;height:46px;border-radius:50%;display:grid;place-items:center;font-size:20px;
   border:1px solid rgba(255,255,255,.7);box-shadow:inset 0 1px 0 rgba(255,255,255,.8),var(--sh-sm);
 }
+.st-ic svg{width:22px;height:22px}
 .st-green{background:radial-gradient(circle at 32% 28%,#F1F7EF,var(--green-soft));color:var(--green-deep)}
 .st-rose{background:radial-gradient(circle at 32% 28%,#FDF4F4,var(--rose-soft));color:var(--rose-ink)}
 .st-big{font-family:var(--display);font-weight:700;font-size:24px;color:var(--ink);line-height:1.2}
@@ -619,7 +639,7 @@ button:focus-visible{box-shadow:0 0 0 3px var(--rose-soft)}
   color:var(--rose-ink);
   text-decoration:underline wavy var(--rose);text-underline-offset:6px;
 }
-.arrow{color:var(--gold-2);font-size:17px}
+.arrow{color:var(--gold-deep);font-size:17px}
 .corr{color:var(--green-deep);font-weight:700}
 /* لوحةُ القاعدة — نظيرُ لوحة «العبرة» */
 .rule-tag{
@@ -757,6 +777,17 @@ button:focus-visible{box-shadow:0 0 0 3px var(--rose-soft)}
   margin:14px 0 0;padding:13px 15px;font-size:12.5px;line-height:1.95;color:var(--ink-soft);
   background:var(--paper);border:1px dashed var(--line-2);border-radius:14px;
 }
+/* حقل المفتاح مع زرّ الكشف */
+.key-wrap{position:relative;display:block}
+.key-wrap .key-input{padding-right:56px}
+.key-eye{
+  position:absolute;top:calc(50% + 5px);transform:translateY(-50%);right:8px;
+  width:44px;height:44px;display:grid;place-items:center;
+  border:none;background:transparent;cursor:pointer;color:var(--ink-soft);
+  border-radius:12px;transition:color var(--dur) var(--ease),background var(--dur) var(--ease);
+}
+.key-eye svg{width:20px;height:20px}
+.key-eye:hover{color:var(--gold-deep);background:var(--gold-soft)}
 .key-input{
   width:100%;margin:10px 0 0;padding:14px 16px;
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;
@@ -867,7 +898,7 @@ footer{
 footer::before{
   content:"❖";display:block;color:var(--gold);font-size:12px;margin-bottom:12px;opacity:.75;
 }
-footer span{font-size:11.5px;color:var(--ink-faint);line-height:1.9}
+footer span{font-size:11.5px;color:var(--ink-2);line-height:1.9}
 
 .bottomnav{
   position:fixed;inset-inline:0;bottom:0;z-index:60;
@@ -925,8 +956,12 @@ footer span{font-size:11.5px;color:var(--ink-faint);line-height:1.9}
 /* ==========================================================================
    الوضع الليلي — مِحرابٌ بعد المغرب
    ========================================================================== */
-@media (prefers-color-scheme:dark){
-  :root{
+/* ==========================================================================
+   الوضع الليلي — مِحرابٌ بعد المغرب
+   يُطبَّق عبر [data-theme] الذي يضبطه سكربتٌ في <head> قبل أول رسم،
+   انطلاقاً من اختيار المستخدم المحفوظ أو تفضيل النظام.
+   ========================================================================== */
+:root[data-theme="dark"]{
     --bg:#221A16; --bg-2:#1B1411; --bg-3:#2A201B;
     --card:#2E241F; --card-2:#291F1B; --paper:#261D19;
     --hi:#382B24; --gold-hi:#3D3022; --green-hi:#28352B; --pure:#3A2D26;
@@ -942,34 +977,58 @@ footer span{font-size:11.5px;color:var(--ink-faint);line-height:1.9}
     --sh:0 10px 26px -10px rgba(0,0,0,.6),0 2px 6px rgba(0,0,0,.3);
     --sh-lg:0 22px 48px -20px rgba(0,0,0,.75),0 4px 12px rgba(0,0,0,.35);
   }
-  body::before{opacity:.3}
-  .hero,.card,.result,.settings,.panel,.loading{
+[data-theme="dark"] body::before{opacity:.3}
+[data-theme="dark"] .hero,
+[data-theme="dark"] .card,
+[data-theme="dark"] .result,
+[data-theme="dark"] .settings,
+[data-theme="dark"] .panel,
+[data-theme="dark"] .loading{
     box-shadow:inset 0 0 0 5px rgba(255,255,255,.035),inset 0 0 0 6px var(--line-3),var(--sh-lg);
   }
-  .err-card,.g-card,.mode{box-shadow:inset 0 0 0 4px rgba(255,255,255,.03),var(--sh)}
-  /* الحالات ذات الأولوية الأعلى تحتاج تجاوزاً صريحاً ليلاً */
-  .mode:hover{box-shadow:inset 0 0 0 4px rgba(255,255,255,.05),inset 0 0 0 5px var(--gold-line),var(--sh)}
-  .mode.active{border-color:var(--rose-2);box-shadow:inset 0 0 0 4px rgba(255,255,255,.05),inset 0 0 0 5px var(--rose-line),var(--sh)}
-  .dialect-row{box-shadow:inset 0 0 0 4px rgba(255,255,255,.04),var(--sh-sm)}
-  .hist-item:hover{box-shadow:inset 0 0 0 3px rgba(255,255,255,.04),var(--sh)}
-  .hist-item{box-shadow:inset 0 0 0 3px rgba(255,255,255,.03),var(--sh-sm)}
-  .clean,.big-text,.quick{box-shadow:inset 0 0 0 4px rgba(255,255,255,.03)}
-  .bottomnav{
+[data-theme="dark"] .err-card,
+[data-theme="dark"] .g-card,
+[data-theme="dark"] .mode{box-shadow:inset 0 0 0 4px rgba(255,255,255,.03),var(--sh)}
+/* الحالات ذات الأولوية الأعلى تحتاج تجاوزاً صريحاً ليلاً */
+[data-theme="dark"] .mode:hover{box-shadow:inset 0 0 0 4px rgba(255,255,255,.05),inset 0 0 0 5px var(--gold-line),var(--sh)}
+[data-theme="dark"] .mode.active{border-color:var(--rose-2);box-shadow:inset 0 0 0 4px rgba(255,255,255,.05),inset 0 0 0 5px var(--rose-line),var(--sh)}
+[data-theme="dark"] .dialect-row{box-shadow:inset 0 0 0 4px rgba(255,255,255,.04),var(--sh-sm)}
+[data-theme="dark"] .hist-item:hover{box-shadow:inset 0 0 0 3px rgba(255,255,255,.04),var(--sh)}
+[data-theme="dark"] .hist-item{box-shadow:inset 0 0 0 3px rgba(255,255,255,.03),var(--sh-sm)}
+[data-theme="dark"] .clean,
+[data-theme="dark"] .big-text,
+[data-theme="dark"] .quick{box-shadow:inset 0 0 0 4px rgba(255,255,255,.03)}
+[data-theme="dark"] .bottomnav{
     background:linear-gradient(180deg,rgba(46,36,31,.94),rgba(34,26,22,.98));
     box-shadow:0 -12px 32px -18px rgba(0,0,0,.8),inset 0 1px 0 rgba(255,255,255,.06);
   }
-  .avatar{background:radial-gradient(circle at 32% 28%,#4A3B24,var(--gold-soft));box-shadow:inset 0 0 0 3px rgba(255,255,255,.05),var(--sh-sm)}
-  .hero h1{text-shadow:0 2px 18px rgba(216,180,99,.22)}
-  .hero{box-shadow:inset 0 0 0 5px rgba(255,255,255,.04),inset 0 0 0 6px var(--rose-line),var(--sh-lg)}
-  .wavy{text-decoration-color:var(--rose-2)}
-  .toast{color:#2A201B;background:linear-gradient(180deg,#F2E7D8,#DCCBB6)}
-  .check,.apply,.fab,.hi-mode,.rule-tag,.d-chip.on,.seg button.on,.hero-badge,
-  .err-card::before,.g-card::before,.mode.active::before,.tool-btn.rec{color:#2A1D20}
-  .fix-all{color:#2A2318}
-  .qnote button{color:#1E2A21}
-  .mic{border-color:rgba(255,255,255,.12)}
-  .result h2::after,.panel-title::after,.settings h3::after{background:var(--card)}
-}
+[data-theme="dark"] .avatar{background:radial-gradient(circle at 32% 28%,#4A3B24,var(--gold-soft));box-shadow:inset 0 0 0 3px rgba(255,255,255,.05),var(--sh-sm)}
+[data-theme="dark"] .hero h1{text-shadow:0 2px 18px rgba(216,180,99,.22)}
+[data-theme="dark"] .hero{box-shadow:inset 0 0 0 5px rgba(255,255,255,.04),inset 0 0 0 6px var(--rose-line),var(--sh-lg)}
+[data-theme="dark"] .wavy{text-decoration-color:var(--rose-2)}
+[data-theme="dark"] .toast{color:#2A201B;background:linear-gradient(180deg,#F2E7D8,#DCCBB6)}
+[data-theme="dark"] .check,
+[data-theme="dark"] .apply,
+[data-theme="dark"] .fab,
+[data-theme="dark"] .hi-mode,
+[data-theme="dark"] .rule-tag,
+[data-theme="dark"] .d-chip.on,
+[data-theme="dark"] .seg button.on,
+[data-theme="dark"] .hero-badge,
+[data-theme="dark"] .err-card::before,
+[data-theme="dark"] .g-card::before,
+[data-theme="dark"] .mode.active::before,
+[data-theme="dark"] .tool-btn.rec,
+[data-theme="dark"] .clear-btn.arm{color:#2A1D20}
+[data-theme="dark"] .fix-all{color:#2A2318}
+[data-theme="dark"] .qnote button{color:#1E2A21}
+[data-theme="dark"] .check,
+[data-theme="dark"] .apply,
+[data-theme="dark"] .fab{background:linear-gradient(180deg,var(--rose-fill-1),var(--rose-fill-2))}
+[data-theme="dark"] .mic{border-color:rgba(255,255,255,.12)}
+[data-theme="dark"] .result h2::after,
+[data-theme="dark"] .panel-title::after,
+[data-theme="dark"] .settings h3::after{background:var(--card)}
 
 /* ==========================================================================
    تفضيل تقليل الحركة
@@ -998,6 +1057,7 @@ footer span{font-size:11.5px;color:var(--ink-faint);line-height:1.9}
   <span class="tb-title"><span class="tb-name">المُدقِّق</span><span class="tb-sub">تدقيق إملائي ونحوي وتشكيل للنصوص العربية</span></span>
   <span style="display:flex;flex:none">
     <button class="icon-btn" id="bellBtn" type="button" aria-label="التنبيهات"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8.4A6 6 0 0 0 6 8.4c0 6.6-2.6 8.6-2.6 8.6h17.2S18 15 18 8.4"/><path d="M13.7 20.6a2 2 0 0 1-3.4 0"/></svg><span class="reddot"></span></button>
+    <button class="icon-btn" id="themeBtn" type="button" aria-pressed="false" aria-label="التبديل إلى المظهر الداكن" title="التبديل إلى المظهر الداكن"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.4 14.6A8.6 8.6 0 0 1 9.4 3.6a8.8 8.8 0 1 0 11 11z"/></svg></button>
     <button class="icon-btn" id="helpBtn" type="button" title="دليل الاستخدام" aria-label="دليل الاستخدام"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9.2"/><path d="M9.6 9.4a2.5 2.5 0 1 1 3.4 2.3c-.6.3-1 .9-1 1.6v.4"/><path d="M12 17.3h.01"/></svg></button>
   </span>
 </header>
@@ -1091,7 +1151,7 @@ footer span{font-size:11.5px;color:var(--ink-faint);line-height:1.9}
   <section class="settings" id="settingsPanel">
     <h3>⚙ إعدادات المحقّق</h3>
     <div class="set-row"><span class="sl"><b>مفتاح Anthropic API</b> (مطلوب مرة واحدة)</span></div>
-    <input type="password" id="apiKeyInput" class="key-input" placeholder="sk-ant-api03-..." dir="ltr" autocomplete="off">
+    <span class="key-wrap"><input type="password" id="apiKeyInput" class="key-input" placeholder="sk-ant-api03-..." dir="ltr" autocomplete="off" aria-label="مفتاح Anthropic API"><button type="button" class="key-eye" id="keyEye" aria-pressed="false" aria-label="إظهار المفتاح" title="إظهار المفتاح"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.4 12S5.9 5.4 12 5.4 21.6 12 21.6 12 18.1 18.6 12 18.6 2.4 12 2.4 12z"/><circle cx="12" cy="12" r="3.1"/></svg></button></span>
     <p class="set-note">يُحفظ المفتاح في متصفح جهازك فقط، ولا يُرسل إلا إلى خوادم Anthropic مباشرة. احصل على مفتاحك من console.anthropic.com ← API Keys.</p>
     <div class="set-row"><span class="sl">النموذج</span><span class="seg" data-key="model"><button data-v="claude-sonnet-4-6">Sonnet — أدق</button><button data-v="claude-haiku-4-5-20251001">Haiku — أسرع وأرخص</button></span></div>
     <div class="set-row"><span class="sl">الترجمة التلقائية للنص غير العربي</span><span class="seg" data-key="autoTr"><button data-v="1">تعمل</button><button data-v="0">متوقفة</button></span></div>
@@ -1106,9 +1166,12 @@ footer span{font-size:11.5px;color:var(--ink-faint);line-height:1.9}
   <section class="card">
     <div class="card-top">
       <span class="lbl">النص</span>
-      <button class="sample" id="sampleBtn">جرّب نصاً فيه أخطاء</button>
+      <span class="card-top-actions">
+        <button class="sample" id="sampleBtn" type="button">جرّب نصاً فيه أخطاء</button>
+        <button class="clear-btn" id="clearBtn" type="button" title="مسح النص">✕ مسح</button>
+      </span>
     </div>
-    <textarea id="input" placeholder="اكتب أو الصق النص العربي هنا…"></textarea>
+    <textarea id="input" aria-label="محرر النص" placeholder="اكتب أو الصق النص العربي هنا…"></textarea>
 
     <div class="tools-row">
       <button class="tool-btn" id="micBtn">🎙 إملاء صوتي</button>
@@ -1143,7 +1206,7 @@ footer span{font-size:11.5px;color:var(--ink-faint);line-height:1.9}
   <div class="loading" id="loading">
     <div class="status-grid">
       <div class="st-col">
-        <span class="st-ic st-green">🪶</span>
+        <span class="st-ic st-green" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.4 3.6c-5.6-.9-11.4 1.5-13.8 6.6-1.6 3.4-1.2 6.6.3 8.9"/><path d="M3.6 20.4 10 14"/><path d="M12.6 12.4H17M9.8 9.2h5.6"/></svg></span>
         <div class="st-big" id="expTime">—</div>
         <div class="st-sub">الوقت المتوقَّع لإكمال التدقيق</div>
         <div class="live-timer" id="liveTimer"></div>
@@ -1154,10 +1217,10 @@ footer span{font-size:11.5px;color:var(--ink-faint);line-height:1.9}
           <div class="ring-pct" id="ringPct">0%</div>
         </div>
         <div class="st-big2">التحقق</div>
-        <p id="loadLabel" class="st-sub">المحقّق يقرأ النص بعنايةٍ…</p>
+        <p id="loadLabel" class="st-sub" aria-live="polite">المحقّق يقرأ النص بعنايةٍ…</p>
       </div>
       <div class="st-col">
-        <span class="st-ic st-rose">🛡</span>
+        <span class="st-ic st-rose" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21.4s7.4-3.6 7.4-9.4V5.8L12 2.6 4.6 5.8V12c0 5.8 7.4 9.4 7.4 9.4z"/><path d="m9.2 11.8 2 2 3.6-3.8"/></svg></span>
         <div class="st-big2">دقَّة عالية</div>
         <div class="st-sub">وفق قواعد الفصحى المعتمدة — واللهجات بمعجمك الخاص</div>
       </div>
@@ -1167,8 +1230,8 @@ footer span{font-size:11.5px;color:var(--ink-faint);line-height:1.9}
     </div>
   </div>
 
-  <div class="err-box" id="errBox"></div>
-  <section class="result" id="result"></section>
+  <div class="err-box" id="errBox" role="alert"></div>
+  <section class="result" id="result" aria-live="polite"></section>
 
   </div><!-- /mainView -->
 
@@ -1251,7 +1314,7 @@ footer span{font-size:11.5px;color:var(--ink-faint);line-height:1.9}
 
 <footer><span>فحص فوري مع شرح للأخطاء الشائعة · تحقيق عميق بالذكاء الاصطناعي<br>كل نصوصك ومفاتيحك تبقى في جهازك وحده</span></footer>
 
-<div class="toast" id="toast"></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
 
 <nav class="bottomnav" aria-label="التنقل الرئيسي">
   <button class="nav-it" id="navSet" type="button"><span class="nv-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3.1"/><path d="M19.5 14.4a1.6 1.6 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.6 1.6 0 0 0-1.8-.3 1.6 1.6 0 0 0-1 1.5v.2a2 2 0 1 1-4 0v-.1a1.6 1.6 0 0 0-1-1.5 1.6 1.6 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.6 1.6 0 0 0 .3-1.8 1.6 1.6 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.6 1.6 0 0 0 1.5-1 1.6 1.6 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.6 1.6 0 0 0 1.8.3H9a1.6 1.6 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.6 1.6 0 0 0 1 1.5 1.6 1.6 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.6 1.6 0 0 0-.3 1.8V9a1.6 1.6 0 0 0 1.5 1h.2a2 2 0 1 1 0 4H21a1.6 1.6 0 0 0-1.5 1z"/></svg></span><span>الإعدادات</span></button>
@@ -2731,6 +2794,106 @@ bindHistList("favList");
 renderModes();
 el("jsWarn").style.display="none";
 applySettingsEffects();
+/* ==========================================================================
+   ميزات منقولة من النسخة السابقة
+   ========================================================================== */
+
+/* ---------- المظهر: داكن وفاتح ---------- */
+var ICON_MOON='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.4 14.6A8.6 8.6 0 0 1 9.4 3.6a8.8 8.8 0 1 0 11 11z"/></svg>', ICON_SUN='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.6v2.2M12 19.2v2.2M4.3 4.3l1.6 1.6M18.1 18.1l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.3 19.7l1.6-1.6M18.1 5.9l1.6-1.6"/></svg>';
+function themePref(){ try{ return localStorage.getItem("mudaqqiq_theme")||""; }catch(e){ return ""; } }
+function effTheme(){
+  var p=themePref();
+  if(p==="dark"||p==="light") return p;
+  try{ if(window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches) return "dark"; }catch(e){}
+  return "light";
+}
+function applyTheme(){
+  var t=effTheme();
+  document.documentElement.setAttribute("data-theme",t);
+  var b=el("themeBtn");
+  if(b){
+    b.innerHTML=(t==="dark")?ICON_SUN:ICON_MOON;
+    var lbl=(t==="dark")?"التبديل إلى المظهر الفاتح":"التبديل إلى المظهر الداكن";
+    b.setAttribute("aria-label",lbl); b.title=lbl;
+    b.setAttribute("aria-pressed",(t==="dark")?"true":"false");
+  }
+  var m=el("metaTheme");
+  if(m){ try{
+    var bg=getComputedStyle(document.documentElement).getPropertyValue("--bg").trim();
+    if(bg) m.setAttribute("content",bg);
+  }catch(e){} }
+}
+el("themeBtn").addEventListener("click",function(){
+  var next=(effTheme()==="dark")?"light":"dark";
+  try{ localStorage.setItem("mudaqqiq_theme",next); }catch(e){}
+  applyTheme();
+  toast(next==="dark"?"المظهر الداكن":"المظهر الفاتح");
+});
+try{
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",function(){
+    if(!themePref()) applyTheme();
+  });
+}catch(e){}
+applyTheme();
+
+/* ---------- حفظ المسودة تلقائياً واسترجاعها ---------- */
+var draftTimer=null;
+function saveDraftNow(){ try{ localStorage.setItem("mudaqqiq_draft",input.value); }catch(e){} }
+function queueDraft(){ clearTimeout(draftTimer); draftTimer=setTimeout(saveDraftNow,500); }
+input.addEventListener("input",queueDraft);
+window.addEventListener("beforeunload",saveDraftNow);
+try{
+  var savedDraft=localStorage.getItem("mudaqqiq_draft");
+  if(savedDraft&&!input.value){ input.value=savedDraft; updateSelChip(); refreshLocal(); }
+}catch(e){}
+
+/* ---------- اختصار: Ctrl+Enter (أو Cmd+Enter) يبدأ التحقيق ---------- */
+input.addEventListener("keydown",function(e){
+  if((e.ctrlKey||e.metaKey)&&e.key==="Enter"){ e.preventDefault(); checkBtn.click(); }
+});
+
+/* ---------- مسح المحرر بتأكيد خفيف بدل الحذف الفوري ---------- */
+var clearTmr=null;
+function disarmClear(b){ clearTimeout(clearTmr); b.classList.remove("arm"); b.textContent="\u2715 مسح"; }
+el("clearBtn").addEventListener("click",function(){
+  var b=this;
+  if(!input.value.trim()&&!b.classList.contains("arm")) return;
+  if(b.classList.contains("arm")){
+    disarmClear(b);
+    input.value=""; savedSel=null;
+    updateSelChip(); refreshLocal(); hideResult(); saveDraftNow();
+    toast("مُسح النص");
+  } else {
+    b.classList.add("arm"); b.textContent="متأكد؟ اضغط للمسح";
+    clearTimeout(clearTmr);
+    clearTmr=setTimeout(function(){ disarmClear(b); },2600);
+  }
+});
+
+/* ---------- إظهار وإخفاء مفتاح API ---------- */
+var ICON_EYE='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.4 12S5.9 5.4 12 5.4 21.6 12 21.6 12 18.1 18.6 12 18.6 2.4 12 2.4 12z"/><circle cx="12" cy="12" r="3.1"/></svg>', ICON_EYE_OFF='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.6 5.7A8.6 8.6 0 0 1 12 5.4c6.1 0 9.6 6.6 9.6 6.6a16 16 0 0 1-3.2 4.1"/><path d="M6.3 6.4A15.7 15.7 0 0 0 2.4 12S5.9 18.6 12 18.6c1.7 0 3.2-.5 4.5-1.2"/><path d="M9.9 9.9a3.1 3.1 0 0 0 4.3 4.3"/><path d="m3.4 3.4 17.2 17.2"/></svg>';
+el("keyEye").addEventListener("click",function(){
+  var inp=el("apiKeyInput"), show=(inp.type==="password");
+  inp.type=show?"text":"password";
+  this.innerHTML=show?ICON_EYE_OFF:ICON_EYE;
+  var lbl=show?"إخفاء المفتاح":"إظهار المفتاح";
+  this.setAttribute("aria-label",lbl); this.title=lbl;
+  this.setAttribute("aria-pressed",show?"true":"false");
+});
+
+/* ---------- حالة الأزرار الثنائية لقارئات الشاشة ---------- */
+function syncPressed(){
+  Array.prototype.forEach.call(
+    document.querySelectorAll(".d-chip[data-d],.d-chip[data-depth],.seg button"),
+    function(b){ b.setAttribute("aria-pressed",b.classList.contains("on")?"true":"false"); });
+  Array.prototype.forEach.call(document.querySelectorAll(".mode"),
+    function(b){ b.setAttribute("aria-pressed",b.classList.contains("active")?"true":"false"); });
+}
+document.addEventListener("click",function(e){
+  if(e.target&&e.target.closest&&e.target.closest(".d-chip,.seg,.mode")) setTimeout(syncPressed,0);
+});
+syncPressed();
+
 </script>
 </body>
 </html>
