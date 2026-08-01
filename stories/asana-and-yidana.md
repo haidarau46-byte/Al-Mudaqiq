@@ -339,3 +339,121 @@ We are written down. We are delivered. There is nothing in that camp of yours th
 She set an arrow to the string, rested it, and stood her watch.
 
 **END OF PART THREE**
+
+---
+
+# Part Four: The Night of Fires
+
+## X. The Parley
+
+They came to the gate an hour past moonrise, when the village was at its most tired and the fires in the pots had burned down to a sullen red.
+
+Not all of them. Yidana, watching from the wall, counted the horses as they walked their slow insolent walk up out of the dark and stopped a bowshot from the gate: nine. All nine. The river had killed none of them, the gorge had killed none of them, and at their head, on a grey horse, sat the leader with his bow across his knees, and even at that distance, even by firelight, she knew the set of his shoulders the way you know a voice heard once in a nightmare.
+
+"Jakpa!" His voice rolled up the wall, calm and carrying, the parley voice, the clearing voice. "Old man! I know you are awake. Men your age don't sleep."
+
+Along the parapet, forty farmers gripped their spears and looked at each other. Jakpa came up the gate stair slowly, the boy under one arm, the black staff under the other, and stood in plain view above the gate, which Yidana thought was mad, and which she understood one heartbeat later was the opposite of mad: every man on that wall stood taller the moment the old man's white beard showed over the parapet.
+
+"I know your voice," Jakpa said. "You are Nakoha's son. Your father sat at my fire, before he sold his spear south."
+
+If that landed, nothing showed. The grey horse shifted; the leader stilled it.
+
+"Give me the book, old man." No kindness in it now. Doing away with the kindness, Yidana thought, was his way of being honest, at last. "You have had it for one day. You had not seen it in thirty years. You will not miss it. Give it to me and we ride before dawn, and no roof in this place burns, and no child in this place learns what a bad year looks like. It doesn't have to be difficult." A pause, and the old words came up the wall like something crawling. "Unless you want it to be."
+
+Beside her in the dark, Yidana heard the fat beer-brewer breathing through his nose.
+
+Jakpa leaned on his staff. When he answered, he did not raise his voice, and yet Yidana never afterward met anyone who had stood on the wall that night who could not repeat it word for word.
+
+"Every hand that has carried that book is written in the back of it," the old man said. "Girls' hands, most of them. Two more names went in yesterday. You have chased children across half the nation, Nakoha's son, and they beat you — the dead one beat you, and the living one beat you — and now you come to my gate to bargain with me as if you were a conqueror and not a courier of ash." He turned away from the parapet. Over his shoulder, mild as porridge: "The difficult way, then."
+
+The leader sat his horse for a moment in the red light.
+
+Then he raised his bow over his head — the same salute, the gorge salute, *this is not finished* — and the nine horses melted backward into the dark, and Yidana's stomach dropped, because she had seen this man walk away before.
+
+"He's not leaving," she said. "That's how he attacks. He leaves first."
+
+## XI. The Fire
+
+The first fire-arrows came at the deepest hour of the night, and they did not come at the gate.
+
+They came out of the east, streaks of falling orange, arching high over the wall to drop on the granaries — and the wall answered the way walls do, everyone flooding toward the burning, buckets and beaters and shouting — and then the gate itself boomed like a drum as something struck it, and half the flood turned back, and in three breaths the defense of the village was a man running in each direction with no man sure which fire was real.
+
+Yidana stood still on the wall above the gate and made herself do the thing that was hardest, which was nothing.
+
+*Look with your eyes, sister. Your head is a flag.*
+
+Below the gate, in the flung light of the burning arrows, riders swept past and wheeled and swept again, loosing at the parapet, roaring — such a noise, such a show, six men making the sound of sixty. She counted them as they crossed the light. Six. She counted again, cold all through. Six.
+
+The leader was not at the gate. The leader was nowhere in the noise. The leader had taught her in a forest clearing exactly what his noise was *for*.
+
+She was off the wall and running before she finished the thought — down the stair, through the lanes full of smoke and bucket-lines, past the grandmothers' house where the stories had stopped, toward the great baobab standing black against the burning sky — and as she ran she heard, thin under all the roar of the night, exactly what she was listening for.
+
+The boy. Jakpa's boy, screaming.
+
+The dark side of the village, the west side, the quiet side: the wall there stood unmanned — every spear had gone to the fires — and a knotted rope hung down it into the shadows, and at the door of the round house the boy lay in the dirt holding his head, and the door stood open, and the lamp inside was out.
+
+Yidana went in over the threshold with an arrow on the string.
+
+Embers in the fire-hole gave the only light. Two men filled the dim room — one tearing through the chests along the wall, one standing over Jakpa, who was on the floor, thrown down, his staff out of reach, his thin arms wrapped around the book with all the terrible stubbornness of the very old. The man over him raised a hand to strike.
+
+Yidana's arrow took him through the shoulder and slammed him against the roof-post.
+
+The second man came around fast, knife out, and got two steps before a shape the size of a rain barrel came through the doorway behind Yidana with a spear held like a pitchfork — the beer-brewer, wheezing like a forge, roaring like an army — and after that there was no more fight in that house, only groaning and the smell of spilled beer, because he had brought the jug too.
+
+But Jakpa's arms were empty.
+
+The old man was pointing, mouth working, pointing past all of them at the open door. "The roof — he was on the *roof* — he waited for you to come in, daughter, he *wanted* —"
+
+The whole shape of the night turned over and showed her its pattern: the fires a feint, the two men a feint inside the feint, and Yidana herself — her coming, her rescue — counted into it from the start. The room was the clearing. The rocks. He had stood on top of them then, too, and let her come.
+
+She went out the door and looked up, and there he was against the burning sky — on the wall, at the top of the knotted rope, the book under his arm. One leg was already over. All he had to do was drop into the dark and the nation was ash after all.
+
+Yidana whistled.
+
+Two notes. Short. Almost casual.
+
+The leader froze.
+
+She watched it take him — the freeze, the very same freeze, the body's old animal knowledge that it is seen by something it cannot see — and then, slowly, slowly, he began to turn his head, and looked behind him, and found her below him in the firelight with the bow drawn to her ear.
+
+"You," he said. Not fear. Wonder, almost. "You do not kill. I know you, girl. Three days I watched you. You dodge. You hide. You run."
+
+"I did," Yidana said. "I ran it all the way here. There's none left."
+
+He moved — the leg swinging over, the drop —
+
+Her arrow went through his shoulder, through the same shoulder his man's had taken, high and hard, and the book flew wide of him as he fell — inward, off the wall, into the village, into the dirt of the lane, where a book of names had every right to land — and the leader of the warriors came down after it and did not get up before the beer-brewer sat on him.
+
+## XII. What the Book Said
+
+They broke at dawn, the six at the gate. Men who fight for pay have a fine ear for a lost cause: when the wall did not empty, and the granaries did not spread their fire, and no rope-signal came from the west, they simply turned their horses and were gone into the grey, and the two from the round house were bound in the grain-store beside their leader, and the village stood in the smoking morning counting itself and finding — bruised, singed, weeping, astonished — that it was all still there.
+
+They brought the leader to Jakpa's door at sun-up, because that was the law: judgment belonged to the elder, at his threshold, in the light.
+
+He stood swaying between two blacksmiths with his shoulder bound and his hands tied, and Yidana, watching from beside the door, waited to feel triumph and felt instead only a great tiredness, and under the tiredness, unwanted, unbidden, the memory of a calm voice through a gap in the rocks — a man who could sound kind. Perhaps that was what he had been, once, before he sold what he was.
+
+Jakpa sat on his stool with the book on his knees and looked at the bound man for a long time.
+
+"Nakoha's son," he said at last. "Do you know what is in this book you have hunted?"
+
+"Names." The leader spat it. "Old names. Paper. The men who pay me will pay for a second hunt, old man, and a third. Kill me and be done."
+
+"Names," Jakpa agreed. "Old names. Paper." He opened the book, and turned the pages with his dry patient hands, and stopped, and turned the book around, and held it up so the bound man could see the page. "Here is your father, who sat at my fire. Here is his father. Here is the field your family held at Daboya before the invaders came, and the song your grandmother's line had the right to sing at the fire festival, which no other family may sing." The old man's voice did not change at all, and that was what made it unbearable. "You are in the book, son of Nakoha. You have spent nine horses and three days and your own blood trying to burn the only place on this earth where you are written down."
+
+In the silence, somewhere behind the houses, a cock crowed as if the world were ordinary.
+
+The leader of the warriors looked at the page. Yidana watched his face while he read — he could read; that surprised her, and then did not — and she saw a thing she had not seen in the forest or on the bridge or on the wall: she saw him meet something he could not dodge, could not outride, could not wait out from the top of a rock.
+
+Jakpa closed the book.
+
+"Kill you? No. You will stay, and work, and eat, and be guarded, and when the book has taught you what you are, we will see what you do next. That is the difficult way." He rose from the stool, took up his staff, and turned to the door, done with judging. Then he paused, and looked back, mild as porridge. "You were right about one thing, though. It didn't have to be."
+
+That same morning, while the smoke of the granary fires still leaned over the walls, nine riders went out of the gate — village men on the warriors' own horses, with a bier of white cloth and a drummer, heading north toward the sands.
+
+They brought Asana home on the third day. The whole village went out to meet her. She lies now under the old baobab, beside the carriers of other generations, in ground that remembers — and in the back of the book, in Jakpa's small patient hand, her line was given one word more:
+
+*Asana, daughter of Gushegu, who carried it to the sand — and is carried now, in her turn, by all of us.*
+
+On the wall above the gate, on the nights she cannot sleep, Yidana stands her watch with a bow nobody asked her to put down, and looks out at the dark plain, and it is only the plain — and behind her the village breathes, and the grandmothers' stories have a new one among them, and it begins, as the best ones do, with dust rising before the horses.
+
+**END OF PART FOUR**
