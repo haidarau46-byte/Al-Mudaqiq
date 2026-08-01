@@ -245,3 +245,97 @@ She was still laughing, or perhaps by now it was the other thing, when she start
 Behind her, two days' ride away at the ford at Kpandai, nine horses were crossing the river.
 
 **END OF PART TWO**
+
+---
+
+# Part Three: The Delivery
+
+## VII. The Village
+
+The children saw her first.
+
+They were driving goats out to the morning grass when a figure came up over the hill out of the sun — barefoot on one side, bleeding at the hands, a cord binding something flat and square against her chest — and the goats scattered and the children stood and stared, because they had been raised on stories, and everything about her looked like the middle of one.
+
+"Jakpa," Yidana said. Her voice came out a ruin. She had not used it since the dark. "Take me to Jakpa."
+
+She remembered the rest of it afterward only in pieces. A horn blowing somewhere, low and repeated. Walls of red earth rising around her, and the smell of woodsmoke and shea butter and animals, and the lane filling with faces — women with water pots gone still on their heads, an old man rising from his stool by a wall, a young man with a spear who stepped into her path and then, seeing her, seeing the state of her, stepped back out of it. She remembered that she was asked her name and could not at first find it. She remembered saying Asana's instead.
+
+And she remembered the crowd folding open in front of her like a wound, all the way down the lane, to the door of a round house that stood apart under the oldest baobab she had ever seen — a tree so old it had stopped being a tree and become a place — and in the doorway, leaning on a staff of black wood, stood a man.
+
+He was old the way the tree was old. Small now, and bent, his skin gone loose and paper-fine over the bones, his beard a scrap of white wool. A boy stood at his elbow to steady him. But his eyes, when they found her across the crowd, were not old at all, and they went — before anything else, before her face, before her wounds — straight to the shape lashed against her chest.
+
+The whole village had gone silent. Even the goats.
+
+"You are one of Gushegu's daughters," the old man said. His voice was thin as a reed and it carried to every wall. "There were to be two of you."
+
+Yidana stood in the middle of the silence, swaying, and made herself say it.
+
+"I am the one that is left."
+
+## VIII. Jakpa
+
+Inside the round house it was cool and dim and smelled of old smoke and older paper.
+
+They had tried to tend her first — the women had come with water and cloth and shea, and Yidana had refused all of it, not out of courage but because she had been walking toward this one act for so long that she no longer knew how to do anything before it. Jakpa had seen that. He had sent them out with one movement of his hand, and now it was only the two of them, and the boy in the shadows by the door, and the light coming down in one dusty blade from the smoke-hole in the roof.
+
+Yidana knelt. Her fingers had swollen around their cuts and she could not undo Asana's knot, and after a moment Jakpa himself reached out with his terrible old hands and untied it — gently, gently, as if it were the girl and not the cord — and the book came free of her body at last.
+
+She had carried it so long that its absence felt like a wound. Her chest was marked with it: a pale square pressed into her skin, over her heart, like the print a stone leaves in earth.
+
+She held it out in both hands, the way you hand a person a newborn.
+
+"From Asana, daughter of Gushegu," she said, and her voice did not break, because she had sworn to herself on the night walk that it would not. "She told me: take the book to Jakpa. Let him know we sacrificed our lives." She swallowed. "That is the message. Those were her words. I have carried them exactly."
+
+Jakpa took the book.
+
+He did not open it at once. He sat with it on his knees with his hands flat upon it, and his eyes closed, and he stayed that way for so long that Yidana thought he had fallen into sleep the way the very old do — and then she saw the tears going down the dry ravines of his face, one after another, unhurried, like the first rains going down a dust-hardened road.
+
+"Do you know what you have carried, daughter?" he said at last.
+
+"No," Yidana said. "We were told not to open it. We didn't open it."
+
+"It is us." He untied the cover cord — his fingers remembered the knot; Yidana understood, watching, that he had tied it himself, long ago — and opened the book, and the pages inside were covered edge to edge in a small, patient hand. "The names. The lineages. The lands and the graves and the songs — everything the people are, written down. When the invaders came in my grandfather's grandfather's time, they burned the talking-houses first, because a people who cannot remember what they are will kneel to anyone who tells them what they are." He turned the pages slowly. "So it was all written in one book, and the book was given to the safest hands in the nation, and every generation it has moved — always secretly, always carried by the young, always one step ahead of the men who are sent to burn it. Your grandmother carried it once. She never told you that, I think."
+
+The blade of light from the smoke-hole moved slowly across the floor between them.
+
+"The men who chased us," Yidana said. "They will come here. Their leader is alive. I —" and there it was after all, the break in her voice, the bridge, the dark, the falling. "I could not make myself be someone who kills. He said so. He was right."
+
+"He was not right." Jakpa said it without heat, the way one corrects a child's sum. "A killer of men is a small thing. Any fool with a spear can be one; we will have forty of them on the walls by dusk, and I thank God for every fool among them. What you are is the rarer thing." He turned the book to face her, and reached into the gourd beside him for a reed pen, and dipped it. "The book has a last page for every generation that carries it. The names of the hands it passed through. Look."
+
+Yidana looked, and the last page was a column of names going down through time like a rope let down a well, and her grandmother's name was in it.
+
+Jakpa wrote, in his small patient hand, at the bottom of the column:
+
+*Asana, daughter of Gushegu, who carried it to the sand.*
+
+*Yidana, daughter of Gushegu, who carried it home.*
+
+"There," the old man said. "Now it is delivered." He closed the book, and looked up at her, and something in his reed-thin voice rang for a moment like the horn on the walls. "Your sister lies in a stream in the desert, daughter, and I will not lie to you: no one can go back for her body while those men ride. But hear what I am telling you. She is not in the stream. She is in this house. Every child of this nation who is ever told who they are — she is in the telling. That is what 'the mission is bigger than me' means. She knew it when she said it. Now you know it too."
+
+Yidana put her face into her ruined hands, kneeling on the earth floor of Jakpa's house, and wept at last — for the first time since the water went red — and the old man let her, and the blade of light moved across the floor, and outside the horn on the walls went on calling the fools with spears, God bless them, to their places.
+
+## IX. The Walls
+
+By dusk the village had changed its shape.
+
+The gates were shut and braced. The herds were in. On the walls stood the forty — farmers and herders and two blacksmiths and a very fat beer-brewer who was said to be the best bowman in the hills — and fires burned in pots along the parapet, and the children had been gathered into the inner houses where the grandmothers sat with them, telling stories, as grandmothers do at such times, so that the stories would be louder than the night.
+
+Yidana stood on the wall above the gate.
+
+She had been bathed and fed and her hands were bound in clean cloth, and someone had found her sandals, and she had slept three hours like a stone dropped in a well — and then she had gotten up and come to the wall, and when the young man with the spear had told her, kindly, that she of all people had earned her rest, she had looked at him until he stopped talking, and he had given her a bow.
+
+She was done running. She had run her whole share and Asana's too, and it was spent, all of it, and what was left standing on the wall in the fire-light was something new that did not yet have a name.
+
+Far out on the dark plain, at the limit of sight, a point of orange light kindled. Then a second, beside it. A camp.
+
+They had ridden hard from the ford. Of course they had.
+
+Yidana watched the two fires burn in the distance, and she found that her heart was beating slow and even, and that she was not afraid — or she was, but the fear had gone through her and come out the other side as something usable, the way ore goes into the fire and comes out as a blade. Behind her, down in the village, she could hear the grandmothers' voices rising and falling, and under the oldest baobab a lamp burned in the window of a round house where an old man sat awake with a book upon his knees, reading the names.
+
+Let them come, she thought.
+
+We are written down. We are delivered. There is nothing in that camp of yours that can undo it now.
+
+She set an arrow to the string, rested it, and stood her watch.
+
+**END OF PART THREE**
