@@ -457,3 +457,113 @@ They brought Asana home on the third day. The whole village went out to meet her
 On the wall above the gate, on the nights she cannot sleep, Yidana stands her watch with a bow nobody asked her to put down, and looks out at the dark plain, and it is only the plain — and behind her the village breathes, and the grandmothers' stories have a new one among them, and it begins, as the best ones do, with dust rising before the horses.
 
 **END OF PART FOUR**
+
+---
+
+# Part Five: The Nightjar
+
+## XIII. News From the South
+
+Far to the south, in a white city by the big water, there is a hall where the men of ash do their accounting.
+
+They do not call themselves that. They call themselves governors, and factors, and friends of order, and they sit on carved stools they did not carve, in a hall built on a burned foundation, and they pay for things to stop existing. Songs. Boundary-stones. Books. That season, six horsemen knelt on the cool floor of that hall with their faces down and explained — carefully, in the way men explain things that have killed other men — how nine of them had gone north for one small book carried by two girls, and how the book was now behind walls, written deeper into the world than ever, and their captain lost, and the girls — the girl — celebrated.
+
+There was a long silence in the hall.
+
+Then the oldest of the men of ash said, "Nine soldiers were beaten by two children. Very well. We will not send soldiers." And he sent instead for a person who came into the hall so quietly that the six horsemen, trained men, men of the indigo, all flinched when she was suddenly among them.
+
+They call her the Nightjar, because no one has ever heard her wings.
+
+None of this was known in the village under the baobab. What was known, three seasons after the night of fires, arrived the way such things arrive: in pieces, on the roads, with the salt.
+
+A trader came up from Daboya at the start of the dry season and sat in the shade drinking the brewer's beer, and mentioned — between the price of salt and the price of iron — that someone on the southern roads was buying answers. Not goods. Answers. Which villages had held a festival for a girl. Where there was a new grave under an old baobab. Whether the old man of that place still lived, and how he slept, and who stood the night watch on his walls. The trader had not seen the buyer. Nobody had seen the buyer. That, he said, wiping his mouth, was the strange part: the questions moved from market to market like smoke from a fire nobody could find.
+
+Yidana carried this to the round house, and Jakpa listened with his eyes shut, and then said: "Bring me Nakoha's son."
+
+He came from the forge-yard where he worked now, still under guard, though the guard had grown friendly and mostly discussed goats with him. Three seasons of village food and village labor had changed the shape of him; the indigo was long gone; there was grey coming into his beard. He stood in the doorway of the house he had once robbed, and listened to the trader's tale told over, and Yidana — who had learned to read him a little, as you learn to read weather — watched the blood go out of his face.
+
+"Ask your questions," Jakpa said.
+
+"The ones who ask in markets and are never seen," said Nakoha's son. "Was anything found on the roads? Any of my six?"
+
+"One," the trader admitted. "Past Kpandai. Dead a month, the vultures' work, nothing on him worth taking — except." He looked into his beer, sorry to have started. "Except a nightjar's feather, pushed into his mouth."
+
+In the silence, Nakoha's son sat down slowly on the threshold, uninvited, like a man whose legs have made a decision without him.
+
+"You know the sign," Jakpa said.
+
+"I know the woman." His voice had gone down to the embers of itself. "She taught me tracking when I was a boy in the south. She taught all of us; we thought it was an honor; it took me years to understand we were not her students, we were her hounds." He looked up, and Yidana saw a thing in his face she had never seen there, not on the bridge, not at arrow-point on the wall: the particular stillness of a man measuring something that outweighs him. "The feather means the hunt is hers now and failure has been paid. She does not parley, old man. She will not come to your gate and make speeches, and you will not count her at your walls, because she will not attack the village at all. She watches. A season. Two. She learns the one hand the book will pass to next — and she takes it on the road, in the dark, between safe places." He wiped his mouth with the back of his wrist. "That is how the Nightjar hunts. She lets you carry the thing to her."
+
+Jakpa was quiet for a long time, his hands flat on the book on his knees.
+
+"Then it is time," he said at last, "for the book to do what it does."
+
+## XIV. The Knot
+
+"A wall is a promise to be somewhere," Jakpa said. "The book has lived four hundred years by breaking that promise."
+
+The council sat late in the round house: the elder, the chief of the forty, the eldest grandmother — who owned, everyone privately agreed, the finest battle-mind in the village — the brewer, and Yidana. The lamp burned down and was refilled. The argument went in circles the way all true arguments do, and every circle passed through the same terrible point: the book must move, moving means carriers, and the Nightjar's whole craft was the harvesting of carriers on dark roads.
+
+"Then we send no carriers," said the chief of the forty. "We keep it here and stand to the walls."
+
+"And in one year or five the men of ash send what walls cannot answer," said the grandmother, "and the book burns in the safest place in the nation, as safe things do. No. It goes. The question is how it goes wrong-footed. She expects one hand, on one road, in secret." She looked at Jakpa, and something passed between the two old people, an entire conversation conducted in half a second, as between people who have argued for sixty years. "So."
+
+"So," Jakpa said, and turned to Yidana. "Tomorrow you begin teaching."
+
+"Teaching what?" Yidana said.
+
+"Everything. To everyone." The old man opened the book to its last page, to the rope of names going down the well of time, and his finger touched them one by one. "One carrier, in secret — that was right for four hundred years, and it is wrong now, because the secret is the thing she hunts. Very well: no more secret. We will make this the year every child of this nation copies pages. Forty books. A hundred. Carried openly and carried hidden, north and south and east, some true, some plain millet-paper, no one knowing which is which — and every carrier knowing the songs by heart besides, so that even a burned page walks and talks and herds goats. She is one woman, daughter. She can take a hand on a road. Let her try to take *every* hand on *every* road."
+
+The council broke up toward morning with the whole shape of it agreed, and the two of them were left alone with the lamp.
+
+"There is still the true book," Yidana said. "The first one. Her hunt doesn't end because we've flooded the roads. She'll come through the copies like a woman winnowing, and at the bottom of the basket —"
+
+"At the bottom of the basket is the carrier of the true book. Yes." Jakpa closed it, and tied the cover cord, and then — looking at her steadily — untied it again. "Watch my hands."
+
+He tied the knot slowly. It was not a common knot. It went over and under itself three times and closed flat, and she saw suddenly that she had seen it before: on the night she knelt on this floor with her fingers too ruined to undo it. Asana had tied this knot. Her grandmother had tied this knot.
+
+"Again," Yidana said, and he tied it again, and then she tied it, wrong, and then wrong, and then right, and the old man watched her hands close the knot of the carriers and let out a breath he seemed to have been holding for thirty years.
+
+"The pen as well," he said, taking up the reed pen from the gourd. "You will write the next names. I had hoped —" and here the reed-thin voice wavered for the first time in her hearing, "— I had hoped for ten more years to give you. You will have to be old without practice, daughter. It cannot be helped."
+
+She went out at dawn and walked to the baobab, to the low mound with its white stones, and sat with Asana while the sun came up, and told her all of it — the feather, the flood of books, the knot — the way she told her everything now, in a low ordinary voice, the way you talk to someone who has stepped out of the room and can surely still hear you. Then she untied from her own wrist the last thing she carried of the desert: a thin leather cord, the book's old binding, the one she had lashed across her chest above the gorge. She had worn it three seasons. She tied it around the neck-stone of the grave, and stood.
+
+"You always ran ahead," she said. "This time I go first. Keep the way warm."
+
+## XV. The Road
+
+They left on a moonless night in the middle of the harvest festival, when the village blazed with fires and drummed loud enough to be heard two valleys off — because the grandmother said the best dark is not silence, it is noise that has an explanation.
+
+Four went out through the small west door where a knotted rope had once hung. The herd-girl Samata, sixteen now, who had been first to see Yidana come over the hill out of the sun and had never stopped telling the story: she carried a book. The boy Mahama, Jakpa's boy, with the scar in his hairline from the night of fires: he carried a book. Yidana carried a book. And Nakoha's son carried nothing, because the council had fought about him until the lamp went dry, and this was the settlement: he walked with them unarmed, on his word, with the brewer's second-best knife in Yidana's belt against the hour his word broke.
+
+Three books. One true. And in the village behind them and in villages beyond, other feet on other roads that same night, other satchels, other songs.
+
+He had argued to come. That was the thing none of them could get around: he had stood before the council and argued for it, the man who did not have to, the man who could have grown old discussing goats. "You do not know her," he had said. "I know her stride, her patience, which fires she will sit at, which lies she reaches for first. You are taking the nation's memory through the dark past a woman I was made by. You need the hound that knows the huntress." And the grandmother had studied him a long while and said, "Or she needs her hound back," and he had answered, "Yes. That is the risk. I would not trust me either. Bring me and watch me," and it was the honesty of it that had carried the vote.
+
+Now the four of them walked north under no moon, on a herders' path, in festival noise fading behind, and the plain took them in.
+
+Yidana walked last, by choice, where she could see all their backs. The books' weight was nothing; she had carried this weight before. What was new was the other weight, the one Jakpa had tied into her hands with a knot: that this time there was no Jakpa ahead at the end of the road, no old man to hand the burden up to. She was the end of the road now. Wherever she stopped, that would be the place the names lived.
+
+They walked an hour. Two. The land emptied and emptied. Samata whispered a verse of the boundary-song to herself, keeping count of it, and Mahama checked the stars the way the old herders had drilled him, and Nakoha's son moved at the front with his rolling tracker's stride, reading the dark like a page —
+
+— and stopped.
+
+He did not raise a hand. He did not turn. He simply stopped moving, entirely, in the way a man stops who wishes even his heartbeat would be quieter, and the three behind him stopped with him, and the plain lay silent all around, silent and ordinary and wide.
+
+And out of the dark ahead of them, soft, unhurried, from the black line of trees along the dry stream-bed, came the call of a nightjar.
+
+It was answered — leisurely, terribly — from the low rocks to the east.
+
+Nakoha's son turned his head very slowly, and in the starlight Yidana saw his face, and read it easily, because it was the face she herself had worn once, pressed to cold earth, looking out through a hole in the rocks at a ring of patient boots.
+
+"She is already here," he breathed. "The hunt began before we did."
+
+Yidana's hand closed on the strap of her satchel.
+
+*Run, my sister,* said a voice in her, the oldest voice, the dearest one. *Run.*
+
+"No," Yidana whispered to it, to herself, to the dark ahead. "Not this time. This time we finish it."
+
+She drew the brewer's second-best knife, and stepped past Nakoha's son, first into the dark.
+
+**END OF PART FIVE**
